@@ -1,0 +1,10 @@
+node_modules
+dist
+lib
+.nuxt
+_nuxt
+coverage
+.idea
+builds
+storybook
+dump
